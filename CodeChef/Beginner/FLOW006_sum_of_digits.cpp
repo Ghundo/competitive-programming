@@ -1,3 +1,8 @@
+/**
+ *    author: marcavenzaid
+ *    created: 2018-06-26-01.00
+ */
+
 /* Problem:
  * You're given an integer N. Write a program to calculate the sum of all the
  * digits of N.
@@ -12,11 +17,6 @@
  * Constraints:
  * 1 <= T <= 1000
  * 1 <= N <= 1000000
- */
-
-/**
- *    author: marcavenzaid
- *    created: 2018-06-26-01.00
  */
 
 #include <bits/stdc++.h>

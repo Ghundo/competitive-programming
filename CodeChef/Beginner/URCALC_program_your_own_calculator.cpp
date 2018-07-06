@@ -1,3 +1,8 @@
+/**
+ *    author: marcavenzaid
+ *    created: 2018-07-01-17.21
+ */
+
 /* Problem:
  * Write a program to obtain 2 numbers (A and B) and an arithmetic operator (C)
  * and then design a calculator depending upon the operator entered by the user.
@@ -21,11 +26,6 @@
  * -1000 <= A <= 1000
  * -1000 <= B <= 1000 and B!=0
  * C can only be one of these 4 operators {"+","-","*","/"}
- */
-
-/**
- *    author: marcavenzaid
- *    created: 2018-07-01-17.21
  */
 
 #include <bits/stdc++.h>

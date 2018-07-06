@@ -1,3 +1,8 @@
+/**
+ *    author: marcavenzaid
+ *    created: 2018-07-01-19.16
+ */
+
 /* Problem:
  * Write a program to take the values for A, B, C of a quadratic equation
  * AX^2 + BX + C = 0 and then find all the roots of the equation. It is
@@ -9,7 +14,7 @@
  * Input:
  * First line will contain the value of A.
  * Second line will contain the value of B.
- * Third line will contain the value of  C
+ * Third line will contain the value of C.
  *
  * Output:
  * Output two lines. First line contains the value of root 1 (x1) and second
@@ -21,11 +26,6 @@
  * -1000 <= A <= 1000
  * -1000 <= B <= 1000
  * -1000 <= C <= 1000
- */
-
-/**
- *    author: marcavenzaid
- *    created: 2018-07-01-19.16
  */
 
 #include <bits/stdc++.h>

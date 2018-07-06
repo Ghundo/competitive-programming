@@ -1,3 +1,8 @@
+/**
+ *    author: marcavenzaid
+ *    created: 2018-07-01-21.44
+ */
+
 /* Problem:
  * Write a program to obtain a number (N) from the user and display whether the
  * number is a one digit number, 2 digit number, 3 digit number or more than 3
@@ -14,11 +19,6 @@
  *
  * Constraints:
  * 0 <= N <= 1000000
- */
-
-/**
- *    author: marcavenzaid
- *    created: 2018-07-01-21.44
  */
 
 #include <bits/stdc++.h>
