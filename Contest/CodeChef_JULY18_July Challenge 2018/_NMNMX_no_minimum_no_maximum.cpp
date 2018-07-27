@@ -3,6 +3,37 @@
  *    created: 2018-07-09-00.31
  */
 
+/* Problem:
+ * Maheshmati and Sangu are playing a game. First, Maheshmati gives Sangu a
+ * sequence of N distinct integers a1,a2,…,aN (not necessarily sorted) and an
+ * integer K. Sangu has to create all subsequences of this sequence with length
+ * K. For each subsequence, he has to write down the product of K-2 integers:
+ * all elements of this subsequence except the minimum and maximum element.
+ *
+ * Sangu wins the game if he is able to write down all these numbers and tell
+ * Maheshmati their product (modulo 109+7, since it can be very large). However,
+ * Sangu is a very lazy child and thus wants you to help him win this game.
+ * Compute the number Sangu should tell Maheshmati!
+ *
+ * Input:
+ * • The first line of the input contains a single integer T denoting the number
+ *   of test cases. The description of T test cases follows.
+ * • The first line of each test case contains two space-separated integers N
+ *   and K.
+ * • The second line contains N space-separated integers a1,a2,…,aN.
+ *
+ * Output:
+ * For each test case, print a single line containing one integer - the product
+ * of all numbers written down by Sangu modulo 10^9+7.
+ *
+ * Constraints:
+ * • 1 <= T <= 10
+ * • 3 <= N <= 5,000
+ * • 3 <= K <= N
+ * • 1 <= ai <= 10,000 for each valid i
+ * • the numbers a1,a2,…,aN are pairwise distinct
+ */
+
 #include <bits/stdc++.h>
 
 using namespace std;

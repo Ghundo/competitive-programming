@@ -13,9 +13,9 @@
  * If C="/", you have to divide the two numbers.
  *
  * Input:
- * First line will contain the first number A.
- * Second line will contain the second number B.
- * Third line will contain the operator C, that is to be performed on A and B.
+ * • First line will contain the first number A.
+ * • Second line will contain the second number B.
+ * • Third line will contain the operator C, that is to be performed on A and B.
  *
  * Output:
  * Output a single line containing the answer, obtained by, performing the
@@ -23,9 +23,9 @@
  * difference between your output and the actual answer is not more than 10-6.
  *
  * Constraints:
- * -1000 <= A <= 1000
- * -1000 <= B <= 1000 and B!=0
- * C can only be one of these 4 operators {"+","-","*","/"}
+ * • -1000 <= A <= 1000
+ * • -1000 <= B <= 1000 and B!=0
+ * • C can only be one of these 4 operators {"+", "-", "*", "/"}
  */
 
 #include <bits/stdc++.h>

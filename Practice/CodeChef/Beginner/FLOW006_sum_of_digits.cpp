@@ -8,15 +8,15 @@
  * digits of N.
  *
  * Input:
- * The first line contains an integer T, total number of test cases.
- * Then follow T lines, each line contains an integer N.
+ * The first line contains an integer T, total number of test cases. Then follow
+ * T lines, each line contains an integer N.
  *
  * Output:
  * Calculate the sum of digits of N.
  *
  * Constraints:
- * 1 <= T <= 1000
- * 1 <= N <= 1000000
+ * • 1 <= T <= 1000
+ * • 1 <= N <= 1000000
  */
 
 #include <bits/stdc++.h>

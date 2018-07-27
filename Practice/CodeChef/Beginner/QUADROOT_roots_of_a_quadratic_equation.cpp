@@ -12,9 +12,9 @@
  * x2 = (-b - sqrt((b^2) - 4ac)) / 2a
  *
  * Input:
- * First line will contain the value of A.
- * Second line will contain the value of B.
- * Third line will contain the value of C.
+ * • First line will contain the value of A.
+ * • Second line will contain the value of B.
+ * • Third line will contain the value of C.
  *
  * Output:
  * Output two lines. First line contains the value of root 1 (x1) and second
@@ -23,9 +23,9 @@
  * more than 10^-6.
  *
  * Constraints:
- * -1000 <= A <= 1000
- * -1000 <= B <= 1000
- * -1000 <= C <= 1000
+ * • -1000 <= A <= 1000
+ * • -1000 <= B <= 1000
+ * • -1000 <= C <= 1000
  */
 
 #include <bits/stdc++.h>

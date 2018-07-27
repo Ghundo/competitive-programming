@@ -9,7 +9,7 @@
  * digit number
  *
  * Input:
- * First line will contain the number N.
+ * • First line will contain the number N.
  *
  * Output:
  * Print "1" if N is a 1 digit number.
@@ -18,7 +18,7 @@
  * Print "More than 3 digits" if N has more than 3 digits.
  *
  * Constraints:
- * 0 <= N <= 1000000
+ * • 0 <= N <= 1000000
  */
 
 #include <bits/stdc++.h>

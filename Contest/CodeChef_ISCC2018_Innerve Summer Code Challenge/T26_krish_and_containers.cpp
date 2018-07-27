@@ -3,6 +3,34 @@
  *    created: 2018-07-22-14.03
  */
 
+/* Problem:
+ * Krish loves chocolates very much. He has N containers numbered from 1 to N.
+ * Everyday, he used to select two indices [l,r] and adds 1 chocolate to each
+ * box starting from l to r (both inclusive).He repeats the same activity for M
+ * days.
+ *
+ * After M days, he asked his friend Nakshatra Q queries. Each query can be
+ * described as: How many containers have at least K chocolates.
+ * Help Nakshatra to answer these queries.
+ *
+ * Input:
+ * • First line contains an integer N that denotes the number of containers.
+ * • Second line contains an integer M denoting the number of days.
+ * • Each of the next M lines consists of two space separated integers l and r.
+ * • Followed by an integer Q denoting the number of queries.
+ * • Each of next Q lines contain a single integer K.
+ *
+ * Output:
+ * For each query, print the result in new line.
+ *
+ * Constraints:
+ * • 1 <= N <= 100000
+ * • 1 <= M <= 1000
+ * • 1 <= l <= r <= N
+ * • 1 <= Q <= 100000
+ * • 1 <= K <= N
+ */
+
 #include <bits/stdc++.h>
 
 using namespace std;
