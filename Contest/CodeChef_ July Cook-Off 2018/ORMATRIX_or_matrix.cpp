@@ -1,8 +1,3 @@
-/**
- *    author: marcavenzaid
- *    created: 2018-07-23-00.47
- */
-
 /* Problem:
  * You are given a matrix of integers A with N rows (numbered 1 through N) and M
  * columns (numbered 1 through M). Each element of this matrix is either 0 or 1.
@@ -38,6 +33,11 @@
  * • 1 <= N,M <= 1,000
  * • Ai,j E{0,1} for each valid i,j
  * • the sum of N*M for all test cases does not exceed 1,000,000
+ */
+
+/**
+ *    author: marcavenzaid
+ *    created: 2018-07-23-00.47
  */
 
 #include <bits/stdc++.h>

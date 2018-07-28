@@ -1,8 +1,3 @@
-/**
- *    author: marcavenzaid
- *    created: 2018-07-24-00.03
- */
-
 /* Problem:
  * Prakhar is fond of solving the mathematical equations,one day his girlfriend
  * asked him a new equation to solve. Equation is as follows:
@@ -33,6 +28,11 @@
  * • 1 <= A[i],B[i] <= 10^9
  * • 1 <= Q <= 10^5
  * • 1 <= K <= 2*10^9
+ */
+
+/**
+ *    author: marcavenzaid
+ *    created: 2018-07-24-00.03
  */
 
 #include <bits/stdc++.h>

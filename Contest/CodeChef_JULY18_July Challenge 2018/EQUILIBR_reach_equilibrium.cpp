@@ -1,8 +1,3 @@
-/**
- *    author: marcavenzaid
- *    created: 2018-07-15-18.08
- */
-
 /* Problem:
  * Chef is an intern at Zoozle. He has a co-intern named Ajar who's good at
  * maths. Chef wants to impress Ajar with his zoozliness, so he decided to play
@@ -40,6 +35,11 @@
  * Constraints:
  * • 1 <= k <= 100
  * • 2 <= n <= 3*10^5
+ */
+
+/**
+ *    author: marcavenzaid
+ *    created: 2018-07-15-18.08
  */
 
 #include <bits/stdc++.h>

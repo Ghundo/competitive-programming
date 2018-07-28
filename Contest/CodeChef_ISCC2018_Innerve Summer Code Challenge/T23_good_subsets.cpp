@@ -1,8 +1,3 @@
-/**
- *    author: marcavenzaid
- *    created: 2018-07-20-21.47
- */
-
 /* Problem:
  * Devanshi is sitting with her team.She assigns a task to her teammates to
  * evaluate their problem solving skills.She has given an array containing N
@@ -29,6 +24,11 @@
  * • 1 <= T <= 100
  * • 1 <= N <= 1000
  * • 1 <= a[i] <= 100000
+ */
+
+/**
+ *    author: marcavenzaid
+ *    created: 2018-07-20-21.47
  */
 
 #include <bits/stdc++.h>

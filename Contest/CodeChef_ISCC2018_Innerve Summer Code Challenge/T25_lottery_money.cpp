@@ -1,8 +1,3 @@
-/**
- *    author: marcavenzaid
- *    created: 2018-07-25-19.59
- */
-
 /* Problem:
  * Jitendra has won a lottery of K rupees. He wants to utilize this money
  * optimally.
@@ -31,6 +26,11 @@
  * • 1 <= N <= 100000
  * • 1 <= K <= 1000000000
  * • 1 <= a[i] <= 1000000000, for each valid i
+ */
+
+/**
+ *    author: marcavenzaid
+ *    created: 2018-07-25-19.59
  */
 
 #include <bits/stdc++.h>

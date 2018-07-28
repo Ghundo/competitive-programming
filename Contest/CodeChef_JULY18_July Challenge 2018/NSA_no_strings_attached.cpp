@@ -1,8 +1,3 @@
-/**
- *    author: marcavenzaid
- *    created: 2018-07-16-01.44
- */
-
 /* Problem:
  * You are given a string S of lowercase English letters with length N. You are
  * allowed to (but don't have to) choose one index in this string and change the
@@ -29,6 +24,11 @@
  * • 1 <= T <= 20
  * • 1 <= N <= 10^5
  * • S contains only lowercase English letters
+ */
+
+/**
+ *    author: marcavenzaid
+ *    created: 2018-07-16-01.44
  */
 
 #include <bits/stdc++.h>

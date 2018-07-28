@@ -1,8 +1,3 @@
-/**
- *    author: marcavenzaid
- *    created: 2018-07-23-00.22
- */
-
 /* Problem:
  * Chef recently graduated Computer Science in university, so he was looking for
  * a job. He applied for several job offers, but he eventually settled for a
@@ -39,6 +34,11 @@
  * • 1 <= N <= 100
  * • |S| = N
  * • S contains only lowercase English letters
+ */
+
+/**
+ *    author: marcavenzaid
+ *    created: 2018-07-23-00.22
  */
 
 #include <bits/stdc++.h>

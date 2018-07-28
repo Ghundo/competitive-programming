@@ -1,13 +1,8 @@
-/**
- *    author: marcavenzaid
- *    created: 2018-07-20-00.38
- */
-
 /* Problem:
  * On the occasion of Mathematics day, Programming Club of our college is
  * hosting a short programming contest based on the theme of Mathematics. Our
  * computer science faculty has given us a problem to solve.
- * He has given two very large numbers m and n.He asks all the students to find
+ * He has given two very large numbers m and n. He asks all the students to find
  * the remainder of product of two numbers m and n when divided by 3.
  *
  * Help us to solve this problem.
@@ -23,6 +18,11 @@
  * Constraints:
  * • 1 <= T <= 100
  * • 1 <= length of m and n <= 100000
+ */
+
+/**
+ *    author: marcavenzaid
+ *    created: 2018-07-20-00.38
  */
 
 #include <bits/stdc++.h>

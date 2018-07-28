@@ -1,8 +1,3 @@
-/**
- *    author: marcavenzaid
- *    created: 2018-07-22-14.03
- */
-
 /* Problem:
  * Krish loves chocolates very much. He has N containers numbered from 1 to N.
  * Everyday, he used to select two indices [l,r] and adds 1 chocolate to each
@@ -29,6 +24,11 @@
  * • 1 <= l <= r <= N
  * • 1 <= Q <= 100000
  * • 1 <= K <= N
+ */
+
+/**
+ *    author: marcavenzaid
+ *    created: 2018-07-22-14.03
  */
 
 #include <bits/stdc++.h>

@@ -1,8 +1,3 @@
-/**
- *    author: marcavenzaid
- *    created: 2018-07-09-00.31
- */
-
 /* Problem:
  * Maheshmati and Sangu are playing a game. First, Maheshmati gives Sangu a
  * sequence of N distinct integers a1,a2,…,aN (not necessarily sorted) and an
@@ -32,6 +27,11 @@
  * • 3 <= K <= N
  * • 1 <= ai <= 10,000 for each valid i
  * • the numbers a1,a2,…,aN are pairwise distinct
+ */
+
+/**
+ *    author: marcavenzaid
+ *    created: 2018-07-09-00.31
  */
 
 #include <bits/stdc++.h>

@@ -1,8 +1,3 @@
-/**
- *    author: marcavenzaid
- *    created: 2018-07-07-00.43
- */
-
 /* Problem:
  * Chef's company wants to make ATM PINs for its users, so that they could use
  * the PINs for withdrawing their hard-earned money. One of these users is
@@ -35,6 +30,11 @@
  * Constraints:
  * • 1 <= T <= 100
  * • 1 <= N <= 10^5
+ */
+
+/**
+ *    author: marcavenzaid
+ *    created: 2018-07-07-00.43
  */
 
 #include <bits/stdc++.h>

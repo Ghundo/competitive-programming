@@ -1,8 +1,3 @@
-/**
- *    author: marcavenzaid
- *    created: 2018-07-19-23.27
- */
-
 /* Problem:
  * Shubham and Akshat are meeting after one year during their summer vacations.
  * Akshat ask for help from Shubham so that he can solve the problem given by
@@ -25,6 +20,11 @@
  * • 1 <= T <= 100
  * • 1 <= N <= 100
  * • 1 <= a[i] <= 100
+ */
+
+/**
+ *    author: marcavenzaid
+ *    created: 2018-07-19-23.27
  */
 
 #include <bits/stdc++.h>

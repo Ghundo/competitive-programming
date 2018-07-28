@@ -1,8 +1,3 @@
-/**
- *    author: marcavenzaid
- *    created: 2018-07-08-02.48
- */
-
 /* Problem:
  * Katya has a sequence of integers a1,a2,…,an and an integer m.
  *
@@ -28,6 +23,11 @@
  * • 1 <= n <= 30
  * • 1 <= m <= 1,000
  * • 1 <= ai <= 1,000 for each valid i
+ */
+
+/**
+ *    author: marcavenzaid
+ *    created: 2018-07-08-02.48
  */
 
 #include <bits/stdc++.h>
