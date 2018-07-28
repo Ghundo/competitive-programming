@@ -1,35 +1,3 @@
-/* Problem:
- * Prakhar is fond of solving the mathematical equations,one day his girlfriend
- * asked him a new equation to solve. Equation is as follows:
- *
- * K*(K+1) = 4*A*B + 2*max(A,B)
- *
- * She also gives him an array(A) of pair(A,B) of size N,and asks Q queries, in
- * each query she gives the value of K and asks for the number of pairs which is
- * present in the array(A) and satisfies the given equation for given K.
- *
- * Prakhar got stuck in solving the given equation but he don't want to
- * disappoint his girlfriend,so he is asking for your help,can you help him out?
- *
- * Input:
- * • First line contains two space separated integer N [size of the array(A)]
- *   and Q (number of query to ask).
- * • Next N lines contains two space separated integers each lines denotes
- *   [information of pair(A,B)] of array(A).
- * • Next line contains Q space separated integers (value of K).
- *
- * Output:
- * For each Q, print a single integer in new line denoting inverse modulo of the
- * number of pairs which satisfies the given equation and also present in the
- * given array(A) with 10^9+9 or -1 if there is no such pair exist.
- *
- * Constraints:
- * • 1 <= N <= 10^5
- * • 1 <= A[i],B[i] <= 10^9
- * • 1 <= Q <= 10^5
- * • 1 <= K <= 2*10^9
- */
-
 /**
  *    author: marcavenzaid
  *    created: 2018-07-24-00.03
