@@ -1,6 +1,6 @@
 /**
- *    author: marcavenzaid
- *    created: 2018-07-23-00.47
+ * author: marcavenzaid
+ * created: 2018-07-23-00.47
  */
 
 #include <bits/stdc++.h>

@@ -26,8 +26,8 @@
  */
 
 /**
- *    author: marcavenzaid
- *    created: 2018-07-08-02.48
+ * author: marcavenzaid
+ * created: 2018-07-08-02.48
  */
 
 #include <bits/stdc++.h>

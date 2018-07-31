@@ -1,6 +1,6 @@
 /**
- *    author: marcavenzaid
- *    created: 2018-07-01-21.44
+ * author: marcavenzaid
+ * created: 2018-07-01-21.44
  */
 
 /* Problem:

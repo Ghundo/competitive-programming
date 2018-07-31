@@ -33,8 +33,8 @@
  */
 
 /**
- *    author: marcavenzaid
- *    created: 2018-07-07-00.43
+ * author: marcavenzaid
+ * created: 2018-07-07-00.43
  */
 
 #include <bits/stdc++.h>
