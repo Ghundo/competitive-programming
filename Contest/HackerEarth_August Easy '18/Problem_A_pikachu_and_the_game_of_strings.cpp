@@ -23,7 +23,6 @@ int main() {
             } else {
                 diff = t[i] - s[i];
             }
-
             if (diff >= 13) {
                 s[i] += 13;
             } else {
