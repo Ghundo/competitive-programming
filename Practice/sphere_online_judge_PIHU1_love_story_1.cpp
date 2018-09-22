@@ -15,7 +15,7 @@ int main() {
     for (int i = 0; i < t; ++i) {
         int n;
         cin >> n;
-        unsigned int a[n] = {};
+        unsigned int a[n] = {0};
         for (int j = 0; j < n; ++j) {
             cin >> a[j];
         }
@@ -35,11 +35,7 @@ int main() {
                 break;
             }
         }
-        if (is_yes) {
-            cout << "YES\n";
-        } else {
-            cout << "NO\n";
-        }
+        cout << ((is_yes) ? "YES" : "NO") << "\n";
     }
     return 0;
 }

@@ -8,8 +8,7 @@
 using namespace std;
 
 void solve(int a[], int n) {
-    int h, l;
-    h = l = a[0];
+    int h = a[0], l = a[0];
     int h_updates = 0, l_updates = 0;
     for (int i = 1; i < n; ++i) {
         int x = a[i];

@@ -11,7 +11,7 @@ int solve(int x) {
     if (x < 38) {
         return x;
     }
-    int next_multiple_of_5 = ((x / 5) + 1) * 5;
+    int next_multiple_of_5 = (x / 5 + 1) * 5;
     return (next_multiple_of_5 - x < 3) ? next_multiple_of_5 : x;
 }
 

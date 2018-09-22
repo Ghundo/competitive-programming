@@ -9,18 +9,20 @@ using namespace std;
 
 int main() {
     ios::sync_with_stdio(false);
-    cin.tie();
+    cin.tie(0);
     double a, b;
     char c;
     cin >> a >> b >> c;
+    double x;
     if (c == '+') {
-        cout << fixed << setprecision(6) << a + b;
+        x = a + b;
     } else if (c == '-') {
-        cout << fixed << setprecision(6) << a - b;
+        x = a - b;
     } else if (c == '*') {
-        cout << fixed << setprecision(6) << a * b;
+        x = a * b;
     } else if (c == '/') {
-        cout << fixed << setprecision(6) << a / b;
+        x = a / b;
     }
+    cout << fixed << setprecision(6) << x << "\n";
     return 0;
 }

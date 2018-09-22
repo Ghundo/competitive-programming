@@ -29,6 +29,6 @@ int main() {
         swap(v1, v2);
     }
     bool ans = (x1 < x2 && v1 < v2) ? false : solve(x1, x2);
-    cout << (ans ? "YES" : "NO") << "\n";
+    cout << ((ans) ? "YES" : "NO") << "\n";
     return 0;
 }

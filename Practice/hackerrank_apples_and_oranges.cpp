@@ -28,9 +28,7 @@ void solve(int s, int t, int a, int b, int apples[], int oranges[], int m,
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(0);
-    int s, t;
-    int a, b;
-    int m, n;
+    int s, t, a, b, m, n;
     cin >> s >> t >> a >> b >> m >> n;
     int apples[m], oranges[n];
     for (int i = 0; i < m; ++i) {

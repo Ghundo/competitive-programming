@@ -13,10 +13,6 @@ int main() {
     long int n;
     cin >> n;
     int l = (int)(log10(n) + 1);
-    if (l > 3) {
-        cout << "More than 3 digits";
-    } else {
-        cout << l;
-    }
+    cout << ((l > 3) ? "More than 3 digits" : to_string(l)) << "\n";
     return 0;
 }

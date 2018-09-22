@@ -13,7 +13,7 @@ int main() {
     int t;
     cin >> t;
     int a[t];
-    int sums[t] = {};
+    int sums[t] = {0};
     for(int i = 0; i < t; i++) {
         cin >> a[i];
         while(a[i] > 0) {
